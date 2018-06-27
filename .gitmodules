@@ -1,0 +1,3 @@
+[submodule "HousePrices"]
+	path = HousePrices
+	url = https://github.com/Yuri-M-Dias/HousePrices
